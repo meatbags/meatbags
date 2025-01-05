@@ -1,1 +1,1 @@
-I dump all my maths experiments here.
+A collection of curiosities: maths experiments, little apps, digital art, sites, whatever.
